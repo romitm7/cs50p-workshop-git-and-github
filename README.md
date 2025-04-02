@@ -21,9 +21,11 @@ Workshop for students: basic Git usage on CLI and in VSCode and GitHub.
     1. Write a Message in the input field at the top e.g. "Updated README with completed tasks". Then press the "✔ Commit" button.
       * Observe that your new commit is now visible in the commit tree in the lower part of the Source Control sidebar.
     1. Press the "Sync Changes" button to push (upload) the changes to Github.com
-    1. Go to your repository on Github.com `https://github.com/<your-github-username>/workshop-git` and press **"Commits"** link below the green "<> Code"
-      * Observe that your new commit is listed.
-      * Click on the commit in the list to see the commit diff, the incremental changes did commit did.
+    1. Go to your repository on Github.com `https://github.com/<your-github-username>/workshop-git`
+      * Observe that your changes to your files are visible on GitHub.
+      * Now press the **"Commits"** link below the green "<> Code"
+        * Observe that your new commit is listed.
+        * Click on the commit in the list to see the commit diff, the incremental changes did commit did.
   - [ ] Change several files
     1. Create a few new files with the `$ code <filename>` command.
     1. Repeat the steps from the previous task to create new commits, and observe how the staging area is changing, and new commits appear in the commit tree timeline.
