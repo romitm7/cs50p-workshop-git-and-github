@@ -6,7 +6,7 @@ Workshop for students: basic Git usage on CLI and in VSCode and GitHub.
 
 **First step**: click the "Fork" button in the top right corner of the repo, to create your own version of this repo. Then you can use the below check-list to complete the tasks.
 
-*Then in your own fork:* Check off the tasks below as you complete them by putting an `x` in the square brackets like `[x]`:
+*Then in your own fork:* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`:
 - [ ] Create a new codespaces with VSCode for your repo
   * Click on the green **"<> Code"** dropdown button > select "Codespaces" tab > click the "Create codespace on main" button.
 - [ ] Watch one of these lectures:
