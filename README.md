@@ -33,4 +33,4 @@ Workshop for students: basic Git usage on CLI and in VSCode
 
 ## More Workshops
 * [erikw/workshop-github-profile](https://github.com/erikw/workshop-github-profile)
-* [erikw/workshop-git](https://github.com/erikw/workshop-git)
+* [erikw/workshop-git-and-github](https://github.com/erikw/workshop-git-and-github)
