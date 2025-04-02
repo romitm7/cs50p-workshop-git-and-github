@@ -1,5 +1,5 @@
-# Workshop: Git
-Workshop for students: basic Git usage on CLI and in VSCode
+# Workshop: Git and GitHub
+Workshop for students: basic Git usage on CLI and in VSCode and GitHub.
 
 
 ## Steps
