@@ -1,6 +1,5 @@
-# Workshop: Git and GitHub
-Workshop for students: basic Git usage on CLI and in VSCode and GitHub.
-
+# CS50P Workshop: Git and GitHub
+Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.com/courses/cs50x-python/) (CS50x Python at Aryaloka): basic Git usage on CLI and in VSCode and GitHub as preparation for the final project.
 
 ## Steps
 
