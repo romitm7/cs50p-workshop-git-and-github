@@ -47,6 +47,7 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
 
 
 
-## More Workshops
-* [erikw/workshop-github-profile](https://github.com/erikw/workshop-github-profile)
-* [erikw/workshop-git-and-github](https://github.com/erikw/workshop-git-and-github)
+## More CS50P Aryaloka Resources:
+* [erikw/cs50p-workshop-github-profile](https://github.com/erikw/cs50p-workshop-github-profile)
+* [erikw/cs50p-workshop-git-and-github](https://github.com/erikw/cs50p-workshop-git-and-github)
+* [erikw/cs50p-lectures](https://github.com/erikw/cs50p-lectures)
