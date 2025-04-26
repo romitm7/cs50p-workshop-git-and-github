@@ -1,8 +1,11 @@
 # CS50P Workshop: Git and GitHub
 Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.com/courses/cs50x-python/) (CS50x Python at Aryaloka): basic Git usage on CLI and in VSCode and GitHub as preparation for the final project.
 
-## Steps
+<p align="center">
+<img src="img/intro.png" width="40%">
+</p>
 
+## Steps
 **First step**: click the "Fork" button in the top right corner of the repo, to create your own version of this repo. Then you can use the below check-list to complete the tasks.
 
 *Then in your own fork:* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`:
