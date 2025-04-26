@@ -8,9 +8,11 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
 *Then in your own fork:* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`:
 - [ ] Create a new codespaces with VSCode for your repo
   * Click on the green **"<> Code"** dropdown button > select "Codespaces" tab > click the "Create codespace on main" button.
+
 - [ ] Watch one of these lectures:
   * [CS50 Seminars 2023 - How To Use Git and GitHub](https://www.youtube.com/watch?v=cspx7YSvp5Q)
   * [CS50 An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+
 - [ ] Practice Git commands: VSCode Source Control GUI
   - [ ] Change one file
     1. In your VSCode, switch to the Source Control view in the left sidebar (Ctrl+Shift+G)
@@ -25,9 +27,11 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
        * Now press the **"Commits"** link below the green "<> Code"
          * Observe that your new commit is listed.
          * Click on the commit in the list to see the commit diff, the incremental changes did commit did.
+
   - [ ] Change several files
     1. Create a few new files with the `$ code <filename>` command.
     1. Repeat the steps from the previous task to create new commits, and observe how the staging area is changing, and new commits appear in the commit tree timeline.
+
 - [ ] Practice Git commands: command-line (CLI) commands
   - [ ] First CLI commit
     1. In your VSCode, edit the `README.md` file e.g. add a new line or check off a completed task.
@@ -42,6 +46,7 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
          * Now press the **"Commits"** link below the green "<> Code"
            * Observe that your new commit is listed.
            * Click on the commit in the list to see the commit diff, the incremental changes did commit did.
+
   - [ ] Second CLI commit
     1. Remember that you did not commit the new file `prog2.py` yet. Repeat the commands above to create a new commit that add this new file.           
 
