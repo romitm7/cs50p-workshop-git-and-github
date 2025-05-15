@@ -8,7 +8,11 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
 ## Steps
 **First step**: click the "Fork" button in the top right corner of the repo, to create your own version of this repo. Then you can use the below check-list to complete the tasks.
 
-*Then in your own fork:* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`:
+*Then in your own fork:*
+* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`:
+> [!IMPORTANT]
+> Any link below, right click and "open in new tab" to keep this editor open.
+
 - [ ] Create a new codespaces with VSCode for your repo
   * Click on the green **"<> Code"** dropdown button > select "Codespaces" tab > click the "Create codespace on main" button.
 
