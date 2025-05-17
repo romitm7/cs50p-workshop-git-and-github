@@ -17,8 +17,8 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
   * Click on the green **"<> Code"** dropdown button > select "Codespaces" tab > click the "Create codespace on main" button.
 
 - [ ] Watch one of these lectures:
-  * [CS50 Seminars 2023 - How To Use Git and GitHub](https://www.youtube.com/watch?v=cspx7YSvp5Q)
-  * [CS50 An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+  * [CS50 Seminars 2023 - How To Use Git and GitHub](https://www.youtube.com/watch?v=cspx7YSvp5Q) up to _20:24_.
+  * [CS50 An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A) up to _15:35_ (you can watch more later if you are interested)
 
 - [ ] Practice Git commands: VSCode Source Control GUI
   - [ ] Change one file
