@@ -18,9 +18,9 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
 - [ ] Create a new codespaces with VSCode for your repo
   * Click on the green **"<> Code"** dropdown button > select "Codespaces" tab > click the "Create codespace on main" button.
 
-- [ ] Watch one of these lectures:
+- [ ] Watch one of these lectures (up until specified time, you can watch more later):
   * [CS50 Seminars 2023 - How To Use Git and GitHub](https://www.youtube.com/watch?v=cspx7YSvp5Q) up to _20:24_.
-  * [CS50 An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A) up to _15:35_ (you can watch more later if you are interested)
+  * [CS50 An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A) up to _15:35_.
 
 - [ ] Practice Git commands: VSCode Source Control GUI
   - [ ] Change one file
