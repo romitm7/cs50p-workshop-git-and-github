@@ -11,7 +11,7 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
 *Then in your own fork:*
 * Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`.
 > [!IMPORTANT]
-> Any link below, right click and "open in new tab" to keep this editor open.
+> Any link below, right click and "*open in new tab*" to keep this editor open.
 
 
 ## Steps
