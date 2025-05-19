@@ -22,7 +22,7 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
   * [CS50 Seminars 2023 - How To Use Git and GitHub](https://www.youtube.com/watch?v=cspx7YSvp5Q) up to _20:24_.
   * [CS50 An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A) up to _15:35_.
 
-- [ ] Practice Git commands: VSCode Source Control GUI
+- [x] Practice Git commands: VSCode Source Control GUI
   - [ ] Change one file
     1. In your VSCode, switch to the Source Control view in the left sidebar (Ctrl+Shift+G)
     1. In your VSCode, edit the `README.md` file e.g. add a new line or check off a completed task.
