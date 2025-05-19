@@ -15,7 +15,7 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
 
 
 ## Steps
-- [ ] Create a new codespaces with VSCode for your repo
+- [x] Create a new codespaces with VSCode for your repo
   * Click on the green **"<> Code"** dropdown button > select "Codespaces" tab > click the "Create codespace on main" button.
 
 - [x] Watch one of these lectures (up until specified time, you can watch more later):
